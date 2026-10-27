@@ -25,7 +25,7 @@ App Android **ligera y rápida** para controlar focos LED [WiZ](https://www.wizc
 ## 📋 Requisitos
 
 - Android 8.0 (API 26) o superior
-- Un foco WiZ con la opción **Comunicación local** activada en la app oficial de WiZ (*Ajustes > Comunicación local*)
+- Un foco WiZ. (En mi caso usé un único "Philips Smart LED Connected by WiZ A60 E27 RGBW 8W")
 - El móvil y el foco en la **misma red WiFi**
 
 ## 🚀 Cómo compilarla
@@ -63,12 +63,6 @@ La app solo envía estos mensajes, por eso es tan ligera. Como UDP puede perder 
 - Los horarios dependen del móvil: si el sistema restringe la app por ahorro de batería, ponla en *Sin restricciones*.
 - Si fuerzas el cierre de la app desde los ajustes de Android, ábrela una vez para reactivar los horarios.
 - Para horarios que funcionen sin el móvil, la app oficial de WiZ permite guardarlos en el propio foco.
-
-## 🗺️ Ideas a futuro
-
-- Soporte para varios focos y grupos
-- Horarios con color o escena
-- Widget con rueda de color
 
 ## 🤝 Contribuir
 
