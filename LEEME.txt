@@ -1,0 +1,10 @@
+1. Abre la carpeta WizLite en Android Studio (acepta usar el Gradle que propone).
+2. Conecta el móvil (depuración USB) y pulsa Run, o Build > Build APK(s).
+3. En la app oficial de WiZ: Ajustes > Comunicación local = activada.
+4. Abre WiZ Lite, pulsa "Buscar" (o escribe la IP del foco).
+5. Widget: mantén pulsado el escritorio > Widgets > WiZ Lite.
+Consejo: reserva una IP fija para el foco en tu router.
+
+HORARIOS: en la app, sección "Horarios" > Añadir. Elige hora, días y Encender/Apagar.
+Funcionan con la app cerrada, pero el móvil debe estar en la misma WiFi que el foco.
+Si fuerzas el cierre de la app, abre WiZ Lite una vez para reactivarlos.
